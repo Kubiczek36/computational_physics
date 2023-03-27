@@ -34,4 +34,3 @@ plt.show()
 
 exp_g = 1/N * np.sum(rho(h))
 print(f"expected height is {exp_g}")
-# %%
