@@ -34,3 +34,6 @@ plt.show()
 
 exp_g = 1/N * np.sum(rho(h))
 print(f"expected height is {exp_g}")
+
+# try sampling with np.random.exp
+# https://numpy.org/doc/stable/reference/random/generated/numpy.random.exponential.html
