@@ -1,0 +1,7 @@
+Config file. First line is ignored, and order is important (only the value is read from each line)
+20        lattice size (everything after the value is ignored)
+2.1       temperature
+500       ntskip (thinning factor)
+2000      ntjob (number of passes)
+T         use random initial config (use T or F, all up if F)
+42        RNG seed (usually safe to leave as-is)
